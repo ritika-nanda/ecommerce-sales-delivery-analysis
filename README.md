@@ -2,7 +2,8 @@
 
 End-to-end analysis of the Olist Brazilian e-commerce dataset using **MySQL, Python (Pandas, Seaborn) and Tableau**.
 
-**Live dashboards:** [Tableau Public link]
+**Live dashboards:** https://public.tableau.com/views/OlistE-commerceAnalysi/DeliveryCustomerExperience?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/shared/GKJRKF2YS?:display_count=n&:origin=viz_share_link
 
 ## Business question
 Where does revenue come from, why do some customers leave poor reviews, and how can delivery performance improve?
